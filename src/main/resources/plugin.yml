@@ -1,0 +1,11 @@
+name: BotPlugin
+version: 1.0
+main: com.bots.plugin.BotPlugin
+description: Два бота с интерактивной сценкой
+commands:
+  spawnbots:
+    description: Спауним ботов
+    usage: /spawnbots
+  removebots:
+    description: Удаляем ботов
+    usage: /removebots
